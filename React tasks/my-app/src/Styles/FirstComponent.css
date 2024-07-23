@@ -1,0 +1,50 @@
+.container {
+    padding: 20px;
+    font-family: 'Times New Roman', Times, serif;
+  }
+  
+  .basic-component,
+  .state-management,
+  .conditional-rendering {
+    margin-bottom: 20px;
+  }
+  
+  .button {
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .button:hover {
+    background-color: #45a049;
+  }
+  
+  .input {
+    padding: 10px;
+    font-size: 16px;
+    margin-left: 10px;
+  }
+  
+  .counter {
+    font-size: 24px;
+    color: #333;
+  }
+  
+  .message {
+    font-size: 18px;
+    color: #ff5722;
+  }
+  
+  .message-status {
+    font-size: 16px;
+    color: #666;
+  }
+  

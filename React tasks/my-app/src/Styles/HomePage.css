@@ -1,0 +1,39 @@
+
+.home-container {
+    padding: 20px;
+    background-color: #e0f7fa;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .home-container h1 {
+    color: #00796b;
+  }
+  
+  .home-container nav {
+    background-color: #004d40;
+    padding: 10px;
+  }
+  
+  .home-container nav ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .home-container nav li {
+    margin: 0 15px;
+  }
+  
+  .home-container nav a {
+    text-decoration: none;
+    color: #80cbc4;
+    font-size: 18px;
+  }
+  
+  .home-container nav a:hover {
+    text-decoration: underline;
+  }
+  
